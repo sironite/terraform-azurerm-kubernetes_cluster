@@ -8,7 +8,7 @@ content: |-
 
   # Usage - Module
 
-  ## Network Watcher Flow Log
+  ## kubernetes cluster
   ```hcl
   {{ include "examples/network-watcher-flow-log-example/main.tf" }}
   ```
