@@ -10,7 +10,7 @@ content: |-
 
   ## kubernetes cluster
   ```hcl
-  {{ include "examples/network-watcher-flow-log-example/main.tf" }}
+  {{ include "examples/kubernetes_cluster-example/main.tf" }}
   ```
 
   {{ .Providers }}
